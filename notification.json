@@ -1,2 +1,7 @@
 {
+  "AppPush": [],
+  "RegionPush": [],
+  "AppPushIgnoreMsgIds": [],
+  "RegionPushIgnoreMsgIds": [],
+  "CurrentShowMsgIds": []
 }
